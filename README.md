@@ -7,3 +7,7 @@ Code: [link](https://github.com/parabola01/ml/blob/bda1acfda6aafad381f3a542c132c
 Exercises 2 Linear
 
 Code: [link](https://github.com/parabola01/ml/blob/6146f81b16157a985f9a928dacf7623be9dffb3e/Linear/025_Exercises.ipynb)
+
+Exercises 3 Trees
+
+Code: [link](https://github.com/parabola01/ml/blob/85ec800ec08ec845366571da96fde43cffaac6eb/Trees/055Decision_trees_Exercises.ipynb)
