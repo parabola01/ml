@@ -15,3 +15,8 @@ Code: [link](https://github.com/parabola01/ml/blob/85ec800ec08ec845366571da96fde
 Exercises 4 Ensemble
 
 Code : [link](https://github.com/parabola01/ml/blob/7c42dc10532a26eb8d2f7bf30ce2125bf6bdd16f/Ensemble/075Ensemble_Exercises.ipynb)
+
+Exercises 5 SVM 
+
+Code: [link](https://github.com/parabola01/ml/blob/c25f72d391c14844e61c30cb5c8ea952b4cb144e/SVM/065_SVM_Exercises.ipynb)
+
