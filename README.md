@@ -20,3 +20,6 @@ Exercises 5 SVM
 
 Code: [link](https://github.com/parabola01/ml/blob/c25f72d391c14844e61c30cb5c8ea952b4cb144e/SVM/065_SVM_Exercises.ipynb)
 
+Exercises 6 NLP
+
+Code: [link](https://github.com/parabola01/ml/blob/aed452b35e9834f6542dc83c42700b030df1d8a4/NLP/106_NLP_Exercises.ipynb)
